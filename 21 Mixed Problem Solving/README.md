@@ -645,16 +645,3 @@ Rather than testing syntax alone, interviewers evaluate your ability to reason a
 > Mixed Embedded C problem solving is the ability to combine multiple C concepts—such as pointers, bit manipulation, arrays, structures, functions, and memory behavior—to solve practical embedded firmware problems efficiently and logically.
 
 ---
-
-# GitHub Repository Structure
-
-```text
-embedded-c-mixed-problem-solving/
-│
-├── README.md    → Phase 1 Mixed Problem Solving notes
-└── (No .c file required)
-```
-
-## C Source File
-
-No `.c` file is required for this topic because it is a theory and interview preparation topic. The small code snippets included in this README are only illustrative examples and should not be uploaded as a separate source file.
